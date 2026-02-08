@@ -100,11 +100,11 @@ Place looping `.mp4` avatar videos in `./plant-viz-movies/`:
 
 ## Research Context
 
-This project is part of ongoing research at the [MIT Center for Collective Intelligence](https://cci.mit.edu) and [galaxyadvisors AG](https://galaxyadvisors.com) into plant-human bioelectric interactions, exploring whether plants exhibit measurable responses to environmental stimuli that can be decoded through machine learning.
+This project is part of ongoing research at the [Galaxylabs](https://galaxylabs.org) and [galaxyadvisors AG](https://galaxyadvisors.com) into plant-human bioelectric interactions, exploring whether plants exhibit measurable responses to environmental stimuli that can be decoded through machine learning.
 
 ## Exhibition
 
-**Living Synthesis** — opening March 2026 at [Phänomena](https://phaenomena.ch), Zürich
+**Silent Signalss** — opening March 2026 at [Phänomena](https://phaenomena.ch), Zürich
 
 ## License
 
