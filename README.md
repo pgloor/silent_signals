@@ -1,6 +1,6 @@
 # 🌿 Silent Signals
 
-**Plant bioelectric perception exhibits for the [Phänomena](https://phaenomena.ch) science museum**
+**Plant bioelectric perception exhibits for the [Phänomena](https://phaenomena.ch) science exhibition**
 
 Plants generate subtle electromagnetic signals that change in response to their environment. These four interactive exhibits let museum visitors discover how a living plant reacts to touch, sound, light, and human emotions — in real time.
 
